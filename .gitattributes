@@ -1,0 +1,8 @@
+*.html linguist-documentation
+*.html linguist-vendored
+*.htm linguist-vendored
+*.css linguist-vendored
+index.html linguist-detectable=false
+docs/** linguist-documentation
+*.py linguist-detectable=true
+*.py linguist-language=Python
